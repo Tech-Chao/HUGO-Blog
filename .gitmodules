@@ -1,3 +1,7 @@
 [submodule "themes/hugo-clarity"]
 	path = themes/hugo-clarity
 	url = https://github.com/chipzoller/hugo-clarity
+[submodule "public"]
+	path = public
+	url = git@github.com:Tech-Chao/Tech-Chao.github.io.git
+	branch = main
