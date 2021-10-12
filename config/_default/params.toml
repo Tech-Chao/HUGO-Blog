@@ -7,10 +7,10 @@ introDescription = "一位Apper & VPS 瞎琢磨爱好者."
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
 # Google analytics Id
-ga_analytics = "XXXXXXXXXX"
+ga_analytics = "UA-180959623-1"
 
 # Baidu analytics Id
-# baidu_analytics = "XXXXXXXX"
+baidu_analytics = "da7bfa88bd51caa210ead421f07f7623"
 
 # limit the number of taxonomies links shown on the sidebar of each page by default.
 numberOfTagsShown = 14 # Applies for all other default & custom taxonomies. e.g categories, brands see https://gohugo.io/content-management/taxonomies#what-is-a-taxonomy
