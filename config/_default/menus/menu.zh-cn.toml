@@ -5,7 +5,7 @@
 
 [[main]]
   name = "归档"
-  url = "post/archive/"
+  url = "post/Archives/"
   weight = -109
 
 # Submenus are done this way: parent -> identifier

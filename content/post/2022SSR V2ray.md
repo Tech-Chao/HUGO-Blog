@@ -1,16 +1,26 @@
----
-title: "2022SSR、V2ray节点订阅机场推荐"
-date: 2022-09-26T17:18:59+08:00
-draft: false
----
++++
+author = "咸鱼"
+title = "2022SSR、V2ray节点订阅机场推荐"
+date = "2022-09-26T17:18:59+08:00"
+toc = true
+comments = true
+description = "2022SSR、V2ray节点订阅机场推荐、科学上网"
+tags = [
+    "科学上网",
+    "VPS",
+    "V2Ray"
+]
+categories = [
+    "机场订阅"
+]
++++
 
-
-![](https://cdn.jsdelivr.net/gh/Tech-Chao/blog-images/ios/airport.png)
+![](https://cdn.jsdelivr.net/gh/Tech-Chao/blog-images/airport.jpg)
 
 ## 机场介绍
 
 前文讲过我们可以通过[搬瓦工](https://www.techchao.com/post/bandwagon-host-v2ray-beginners-guide/)自行搭建节点外，我们还可以通过付费订阅SSR来实现科学上网，相较于自行搭建使用订阅减去了很多繁琐的步骤，只要购买订阅，直接使用即可。优点在于无需自己搭建维护，可以拥有多个国家的节点，自由切换IP，缺点在于费用较贵，适用于动手能力较弱的小白。
-
+<!--more-->
 我们可以将订阅比作是飞机场，如果要出去可以任选飞机可以到达各个国家，无需自己来造飞机或者维护就是费用较贵，而自行搭建的类似于固定路线的私人飞机，需要自己搭建及维护，目的地只能有一个，而且如果路线被禁后可能需要付费开通另外行线。
 
 购买建议：
