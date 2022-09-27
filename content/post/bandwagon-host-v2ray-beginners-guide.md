@@ -16,8 +16,11 @@ categories = [
 +++
 
 ![](https://cdn.jsdelivr.net/gh/Tech-Chao/blog-images/imgbwg_logo.png)
+
 ## 一、前言
 相较于目前市面上烂大街的 SSR 翻墙，V2RAY在安全、伪装、稳定等方面几乎是碾压 SSR，本教程介绍了如何搭建和使用 V2Ray ,就算是新手只要按照步骤进行操作一样可以搭建成功。
+
+另外如果动手能力较弱可直接购买机场订阅，**详见[2022SSR、V2ray节点订阅机场推荐](https://www.techchao.com/post/2022ssr-v2ray/)**
 
 <!--more-->
 ## 二、准备工作
