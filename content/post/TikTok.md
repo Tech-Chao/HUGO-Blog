@@ -26,7 +26,7 @@ categories = [
 
 1. 科学上网+小火箭
 
-最简单的方法就是直接网页打开抖音国际版tiktok.com，无需拔卡，当然前提是你能够正常上网，什么是正常上网这个懂的应该都知道，不懂的可以查看下方原文链接。
+最简单的方法就是直接网页打开抖音国际版tiktok.com，无需拔卡，当然前提是你能够正常上网，什么是正常上网这个懂的应该都知道，不懂的可以[查看下方教程](https://www.techchao.com/post/tiktok/#%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91%E6%95%99%E7%A8%8B)。
 
 
 打开tiktok网页版后视频内容会根据你网络的IP地址自动推送相关地区的视频，比如要看日本区的视频，只需要将网络ip切换到日本刷新即可。电脑刷视频无需登录，手机刷会有登录弹窗，我们使用未登录过tiktok的gmail邮箱（自行在google上注册）登录即可，点赞&评论都可以。
@@ -113,28 +113,9 @@ categories = [
 至此配置都算完成了，接下来我们需要打开科学上网工具在打开 tiktok 登录使用即可。
 Tips：此方法因为有7天的时效性，到期后不要卸载软件，只需要重复之前签名+安装操作即可。app内的登录数据等都不会丢失。
 
-### 科学上网教程
 
-科学上网首先就需要相应的客户端，然后需要寻找免费的节点或者付费稳定的机场再或者自己动手搭建。
+### 五、科学上网
 
-首先来看iOS客户端，目前国内的App Store是不会上架这些App的，我们只能通过外区的Apple ID付费下载（没有免费的）。
+请看这篇：[科学上网科普及搭建指南](https://www.techchao.com//post/scientificinterent/)
 
--  Shadowrocket（俗称小火箭，注意不是 shadowrocket VPN）
-- i2Ray
-- pepi
-- QuantumultX
 
-以上App我们可以通过自己[注册海外Apple账号](https://zhuanlan.zhihu.com/p/452378078)或者淘宝购买Apple账号后，购买礼品卡充值购买。也可以直接在网上购买的成品号下载。
-
-如果是其它的客户端，可以考虑使用 Clash，Windows、Mac、Android都已支持。
-
-1. Mac+ClashX: [clashX-v1.30.1.dmg](https://github.com/yichengchen/clashX/releases)
-2. Windows+Clash: [Clash.for.windows-0.11.6.exe](https://github.com/Fndroid/clash_for_windows_pkg/releases)
-3. Android+Clash: [ClashForAndroid-v2.0.18.apk](https://github.com/Kr328/ClashForAndroid/releases)
-
-安装完对应的客户端后，我们需要订阅机场或者自建节点，可以参考下之前文章。
-
-- [自建节点](https://www.techchao.com/post/bandwagon-host-v2ray-beginners-guide/)
-- [订阅机场，新手强烈推荐](https://www.techchao.com/post/2022ssr-v2ray/)
-
-搭配使用即可完成。
